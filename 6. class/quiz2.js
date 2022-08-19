@@ -35,7 +35,7 @@ console.log(me.depart);
 console.log(me.work_time);
 console.log(me.calculate());
 
-const stu = new PartTimeEmp('토리', '디자인', 30);
+const stu = new PartTimeEmp('tor', '디자인', 30);
 console.log(stu.name);
 console.log(stu.depart);
 console.log(stu.work_time);
